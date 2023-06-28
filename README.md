@@ -14,7 +14,7 @@ Web-Interface-Design to repozytorium poświęcone projektowaniu interfejsów uż
 
 Sklonuj repozytorium na swój lokalny komputer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Web-Interface-Design.git
+git clone https://github.com/dawidolko/Web-Interface-Design.git
 ```
 
 Przeglądaj dostępne projekty, szablony i style w odpowiednich folderach.
