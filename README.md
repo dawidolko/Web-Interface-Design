@@ -1,32 +1,30 @@
 # Web-Interface-Design
 
-## **Opis:**
-Web-Interface-Design to repozytorium poświęcone projektowaniu interfejsów użytkownika dla stron internetowych. Znajdziesz tutaj przykładowe projekty, szablony, style i materiały edukacyjne związane z tworzeniem atrakcyjnych i intuicyjnych interfejsów dla stron internetowych.
+## **Description:**
+Web-Interface-Design is a repository dedicated to designing user interfaces for websites. Here you will find example projects, templates, styles and educational materials related to creating attractive and intuitive interfaces for websites.
 
-## **Struktura Repozytorium:**
-/Projects: Ten folder zawiera różne projekty, w których wykorzystuje się projektowanie interfejsu internetowego. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i przykładowymi kodami.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use web interface design. Each project has its own folder with description, project files and sample codes.
 
-/Lab: W tym folderze znajdują się gotowe szablony interfejsów, które można wykorzystać jako punkt wyjścia do projektowania stron internetowych.
+/Lab: This folder contains ready-made interface templates that can be used as a starting point for web design.
 
-/Courses: Tutaj znajdują się style CSS, które mogą zostać zastosowane w projektach interfejsów internetowych w celu zapewnienia spójnego wyglądu i formatowania.
+/Courses: Here are CSS styles that can be applied to web interface designs for consistent appearance and formatting.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Web-Interface-Design.git
 ```
 
-Przeglądaj dostępne projekty, szablony i style w odpowiednich folderach.
+Browse available designs, templates and styles in their respective folders.
 
-Wykorzystaj dostępne materiały, aby projektować atrakcyjne i intuicyjne interfejsy użytkownika dla stron internetowych.
+Use available materials to design attractive and intuitive user interfaces for websites.
 
-## **Wymagania systemowe**
-Aby rozpocząć projektowanie interfejsu internetowego, będziesz potrzebować edytora kodu HTML, CSS oraz narzędzi do przeglądania i testowania stron internetowych. Upewnij się, że masz zainstalowane wymagane oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To start designing a web interface, you'll need an HTML editor, CSS, and web browsing and testing tools. Make sure you have the required software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z projektowaniem interfejsu internetowego. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own web interface design projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
-
+If you have any questions or need help, please contact me via email or GitHub.
