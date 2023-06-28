@@ -4,11 +4,11 @@
 Web-Interface-Design to repozytorium poświęcone projektowaniu interfejsów użytkownika dla stron internetowych. Znajdziesz tutaj przykładowe projekty, szablony, style i materiały edukacyjne związane z tworzeniem atrakcyjnych i intuicyjnych interfejsów dla stron internetowych.
 
 ## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się projektowanie interfejsu internetowego. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i przykładowymi kodami.
+/Projects: Ten folder zawiera różne projekty, w których wykorzystuje się projektowanie interfejsu internetowego. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i przykładowymi kodami.
 
-/Szablony: W tym folderze znajdują się gotowe szablony interfejsów, które można wykorzystać jako punkt wyjścia do projektowania stron internetowych.
+/Lab: W tym folderze znajdują się gotowe szablony interfejsów, które można wykorzystać jako punkt wyjścia do projektowania stron internetowych.
 
-/Style: Tutaj znajdują się style CSS, które mogą zostać zastosowane w projektach interfejsów internetowych w celu zapewnienia spójnego wyglądu i formatowania.
+/Courses: Tutaj znajdują się style CSS, które mogą zostać zastosowane w projektach interfejsów internetowych w celu zapewnienia spójnego wyglądu i formatowania.
 
 ## **Jak zacząć:**
 
