@@ -8,8 +8,6 @@ Web-Interface-Design is a repository dedicated to designing user interfaces for 
 
 /Lab: This folder contains ready-made interface templates that can be used as a starting point for web design.
 
-/Courses: Here are CSS styles that can be applied to web interface designs for consistent appearance and formatting.
-
 ## **How ​​to start:**
 
 Clone the repository to your local computer:
