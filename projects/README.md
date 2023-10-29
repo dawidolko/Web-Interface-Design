@@ -1,24 +1,23 @@
-# Projekty związane z interfejsami designu internetowego
-Witaj w świecie projektów związanych z interfejsami designu internetowego! Ten zbiór projektów oferuje różnorodne i ekscytujące przykłady pracy nad interfejsami użytkownika dla stron internetowych i aplikacji webowych. Niezależnie od Twojego poziomu zaawansowania w projektowaniu, te projekty stanowią doskonałą okazję do rozwijania umiejętności w dziedzinie designu interaktywnego i zdobywania praktycznego doświadczenia.
+# Projects related to web design interfaces
+Welcome to the world of web design interface projects! This collection of projects offers diverse and exciting examples of work on user interfaces for websites and web applications. Regardless of your level of design experience, these projects provide a great opportunity to develop your interactive design skills and gain hands-on experience.
 
-## Dlaczego warto uczestniczyć w tych projektach?
-Rozwijanie umiejętności projektowania: Projekty skupiają się na różnych aspektach projektowania interfejsów, od podstawowych zasad do zaawansowanych technik, co pozwoli Ci rozwijać swoje umiejętności w dziedzinie designu internetowego.
+## Why is it worth participating in these projects?
+Develop your design skills: Projects focus on various aspects of interface design, from basic principles to advanced techniques, allowing you to develop your web design skills.
 
-Zastosowanie w praktyce: Projekty mają na celu pokazać Ci, jak wykorzystać teoretyczne założenia designu w praktyce. Będziesz pracować nad projektami z różnych branż, takich jak e-commerce, zdrowie, edukacja, technologia i wiele innych, co pozwoli Ci zdobyć doświadczenie w różnych kontekstach i zrozumieć potrzeby różnych użytkowników.
+Application in practice: The projects aim to show you how to use the theoretical assumptions of design in practice. You will work on projects in various industries such as e-commerce, health, education, technology and many others, which will allow you to gain experience in different contexts and understand the needs of different users.
 
-Kreatywność i innowacyjność: Tworzenie interfejsów designu internetowego to proces kreatywny, który pozwala na wyrażenie swojej innowacyjności i tworzenie estetycznych, funkcjonalnych i intuicyjnych interfejsów.
+Creativity and innovation: Creating web design interfaces is a creative process that allows you to express your innovation and create aesthetic, functional and intuitive interfaces.
 
-Portfolio projektów: Projekty, nad którymi będziesz pracować, mogą stanowić wartościowe elementy Twojego portfolio, które pozwolą Ci zaprezentować swoje umiejętności potencjalnym pracodawcom lub klientom.
+Project portfolio: The projects you will work on can be valuable elements of your portfolio that will allow you to showcase your skills to potential employers or clients.
+## Sample projects:
+Website for the company: Create a modern website for the company that will present information about the company, its services and contacts in an attractive way.
 
-## Przykładowe projekty:
-Strona internetowa dla firmy: Stwórz nowoczesną stronę internetową dla firmy, która będzie prezentować informacje o firmie, jej usługach i kontaktach w atrakcyjny sposób.
+Mobile app for health and wellness: Design an interface for a mobile app that allows users to monitor their health, physical activity and diet in a simple and intuitive way.
 
-Aplikacja mobilna dla zdrowia i wellness: Zaprojektuj interfejs dla aplikacji mobilnej, która pozwoli użytkownikom monitorować swoje zdrowie, aktywność fizyczną i dietę w prosty i intuicyjny sposób.
+E-learning platform: Develop an interface for an e-learning platform that allows users to access courses, learning materials and online learning tools.
 
-Platforma e-learningowa: Opracuj interfejs dla platformy e-learningowej, która umożliwi użytkownikom dostęp do kursów, materiałów edukacyjnych i narzędzi do nauki online.
+Online store: Create an interface for your online store that is inviting to customers, easy to navigate, and provides a good user experience during the purchasing process.
 
-Sklep internetowy: Stwórz interfejs dla sklepu internetowego, który będzie zachęcający dla klientów, łatwy w nawigacji i zapewni dobrą jakość użytkowania podczas procesu zakupowego.
+Social App: Design an interface for a social app that allows users to communicate, share content, and create a friendly online community.
 
-Aplikacja społecznościowa: Zaprojektuj interfejs dla aplikacji społecznościowej, która umożliwi użytkownikom komunikację, dzielenie się treściami i tworzenie przyjaznej społeczności online.
-
-Zapraszamy do uczestnictwa w projektach związanych z interfejsami designu internetowego i eksplorowania różnych aspektów designu, które wpływają na wrażenia użytkowników podczas korzystania z witryn internetowych i aplikacji webowych. Niech te projekty stanowią inspirację do tworzenia estetycznych i funkcjonalnych interfejsów, które przyciągają użytkowników i spełniają ich potrzeby.
+We invite you to participate in projects related to web design interfaces and explore various aspects of design that influence users' experience when using websites and web applications. Let these designs inspire you to create aesthetic and functional interfaces that attract users and meet their needs.
